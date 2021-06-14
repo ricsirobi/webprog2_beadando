@@ -194,7 +194,7 @@ if (isset($_COOKIE["fileUp"])) {
 	<button onclick="loadDoc('games/ingameContent.php')"> Mi van a játékban?</button>
 	<?php
 	echo '   
-	
+	<button onclick="loadDoc(\'games/download.php\')"> Fájl letöltés</button>
 	
 	
 	</div>';
