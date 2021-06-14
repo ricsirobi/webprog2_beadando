@@ -6,3 +6,6 @@
  
  Ha regisztráció nélkül használjuk az oldalt akkor lekérdező odalként működik.
  Az összes játék adatait képesek vagyunk letölteni vagy megjeleníteni.
+ 
+ Készítette: 
+ Ács Róbert
