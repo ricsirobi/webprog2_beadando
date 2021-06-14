@@ -1,0 +1,2 @@
+Bolts;Common;999999;2
+Raritanium;Rare;99999;2

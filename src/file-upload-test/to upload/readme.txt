@@ -1,0 +1,1 @@
+ha a csv excellel van szerkesztve akkor hibás lesz, annyit kell tenni, hogy megnyitjux notepaddal és az utolsó enter-t kitöröljük.txt

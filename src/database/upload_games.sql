@@ -1,0 +1,2 @@
+INSERT INTO games(id, name, priceUSD, platform) VALUES (1, "League of Legends: Ruined King", 40, "Steam");
+INSERT INTO `games`(`id`, `name`, `priceUSD`, `platform`) VALUES (2,"Ratchet and Clank: Rift Apart",70,"PlayStation5");
